@@ -1,4 +1,4 @@
-// Jeffrey Allan Wilson
+// Jeffrey Wilson
 // A04770255 - jaw291
 // Assignment 1
 
@@ -71,11 +71,12 @@ int main()
          << "Size of Variable (bytes): " << sizeof(long_double_var)
          << endl << endl;
 
-    double double_array[5] = {1.1, 2.2, 3.3, 4.4, 5.5};
+    double dou_array[5] = {1.1, 2.2, 3.3, 4.4, 5.5};
     cout << "Double Array Details:" << endl
-         << "Value: " << double_array[0] << endl
-         << "Address: " << &double_array[0] << endl
-         << "Size of Variable (bytes) " << sizeof(double_array[0])
+         << "Value: " << dou_array[0] << ", " << dou_array[1] << ", "
+         << dou_array[2] << ", " << dou_array[3] << ", "<< dou_array[4] << endl
+         << "Address: " << &dou_array[0] << endl
+         << "Size of Variable (bytes) " << sizeof(dou_array)
          << endl << endl;
 
     int int_array[5] = {1, 2, 3, 4, 5};
@@ -94,17 +95,13 @@ int main()
          << "Size of Variable (bytes) " << sizeof(p)
          << endl << endl;
 
-    double* q = &double_array[0];
+    double* q = &dou_array[0];
     cout << "Double Pointer Details:" << endl
          << "Value of pointer: " << q << endl
          << "Value at address being pointed to: " << *q << endl
          << "Address: " << &q << endl
          << "Size of Variable (bytes) " << sizeof(q)
          << endl << endl;
-
-
-
-
 
     return 0;
 }
