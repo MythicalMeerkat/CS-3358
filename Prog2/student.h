@@ -9,15 +9,17 @@ Programming Project 2
 
 #include <string>
 
+using namespace std;
+
 class student{
     private:
         string name;
         string ID;
-        string student_Address;
+        string Address;
         double GPA;
 
     public:
-        student(string, string, string, GPA);
+        student(string, string, string, double);
 
 
 };

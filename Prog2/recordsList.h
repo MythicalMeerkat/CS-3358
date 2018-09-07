@@ -25,7 +25,7 @@ class recordsList
         Node *next;      // points to next node in list
     };
 
-    Node *head;           // the head pointer of the List
+    Node *head;          // the head pointer of the List
 
   public:
     recordsList();

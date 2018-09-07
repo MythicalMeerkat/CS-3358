@@ -11,6 +11,8 @@ Linked List Practice
 
 #include <iostream>
 
+#include "recordsList.h"
+
 using namespace std;
 
 int main()
