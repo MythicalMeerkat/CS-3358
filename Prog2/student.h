@@ -9,6 +9,7 @@ Programming Project 2
 
 #include <string>
 
+
 using namespace std;
 
 class student{
@@ -19,7 +20,13 @@ class student{
         double GPA;
 
     public:
+        student();
         student(string, string, string, double);
+		
+		string getName();
+		string getID();
+		string getAddress();
+		double getGPA();
 
 
 };

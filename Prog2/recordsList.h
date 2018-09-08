@@ -5,7 +5,7 @@ A04770255 - jaw291
 Programming Project 2
 */
 
-// Defines the enty point for the header file dictating the student class.
+// Defines the entry point for the header file dictating the student class.
 
 #include <string>
 #include "student.h"
@@ -19,7 +19,7 @@ class recordsList
     {
         string Name;
         string ID;
-        string studentAddress;
+        string Address;
         double GPA;
 
         Node *next;      // points to next node in list
@@ -31,6 +31,6 @@ class recordsList
     recordsList();
     ~recordsList();
 
-    void append(student*);
+    void append(student);
     void displayRecords() const;
 };

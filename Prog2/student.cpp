@@ -13,6 +13,13 @@ Programming Project 2
 
 using namespace std;
 
+// Default Constructor
+
+student::student()
+{
+    return;
+}
+
 // Constructor
 
 student::student(string pass_name, string pass_ID, string pass_Address,
@@ -23,3 +30,26 @@ student::student(string pass_name, string pass_ID, string pass_Address,
     Address = pass_Address;
     GPA = pass_GPA;
 }
+
+string student::getName()
+{
+	return name;
+}
+
+string student::getID()
+{
+	return ID;
+}
+
+string student::getAddress()
+{
+	return Address;
+}
+
+double student::getGPA()
+{
+	return GPA;
+}
+
+
+
