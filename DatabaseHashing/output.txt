@@ -1,0 +1,124 @@
+Random ID 17500 assigned to Jim
+Random ID 34407 assigned to Kelly
+Random ID 11104 assigned to Donnie
+Random ID 16722 assigned to Mclovin
+Random ID 24151 assigned to Stacy
+Random ID 25194 assigned to Megan
+Random ID 40382 assigned to Tristan
+Random ID 19023 assigned to Billy
+Random ID 18788 assigned to Sarah
+Random ID 40060 assigned to Michelle
+Random ID 22043 assigned to Jeff
+Random ID 25784 assigned to Kim
+Random ID 18915 assigned to Dan
+Random ID 23822 assigned to Fogle
+Random ID 14970 assigned to Pratt
+Random ID 32923 assigned to Ivan
+Random ID 27006 assigned to Ben
+Random ID 14767 assigned to Keith
+Random ID 12928 assigned to Zoltan
+Random ID 11796 assigned to Chris
+Random ID 25266 assigned to Jackson
+Random ID 33405 assigned to Shaun
+Random ID 36638 assigned to Batman
+Random ID 30307 assigned to Robin
+Random ID 25994 assigned to Wiley
+Random ID 33759 assigned to Colin
+Random ID 38256 assigned to Conrad
+Random ID 19265 assigned to Cairo
+Random ID 39342 assigned to Sean
+Random ID 36982 assigned to Emily
+--- Printing Hash Table (Object Locations) ---
+
+1: X
+2:
+3: X
+4: X
+5:
+6:
+7:
+8: X
+9:
+10:
+11: X
+12:
+13:
+14: X
+15:
+16:
+17:
+18:
+19:
+20:
+21: X
+22:
+23:
+24:
+25:
+26: X
+27: X
+28:
+29:
+30:
+31: X
+32:
+33:
+34:
+35: X
+36:
+37:
+38:
+39:
+40: X
+41:
+42: X
+43: X
+44: X
+45: X
+46:
+47:
+48:
+49:
+50:
+51: X
+52: X
+53:
+54: X
+55:
+56:
+57: X
+58:
+59:
+60: X
+61:
+62: X
+63:
+64: X
+65:
+66: X X
+67:
+68: X X
+69: X
+70:
+71:
+72:
+73: X
+74: X
+75:
+76:
+77:
+78:
+79:
+How many searches to conduct: 4
+Enter an ID to search for: 17500
+Name: Jim
+ID: 17500
+Enter an ID to search for: 40060
+Name: Michelle
+ID: 40060
+Enter an ID to search for: 36982
+Name: Emily
+ID: 36982
+Enter an ID to search for: 00101
+Record not found!
+Press any key to continue . . .
