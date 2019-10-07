@@ -1,0 +1,237 @@
+--- Printing Unordered Array ---
+Name: Jim
+ID: A123
+Address: TXST 123
+GPA: 2
+
+Name: Kelly
+ID: A111
+Address: TXST 444
+GPA: 2.15
+
+Name: Donnie
+ID: A157
+Address: Vistas
+GPA: 2.19
+
+Name: Mclovin
+ID: A453
+Address: Flowers
+GPA: 2.2
+
+Name: Stacy
+ID: A983
+Address: Sterry
+GPA: 2.75
+
+Name: Megan
+ID: A007
+Address: Capstone
+GPA: 2.81
+
+Name: Tristan
+ID: A113
+Address: Junction
+GPA: 2.9
+
+Name: Billy
+ID: A543
+Address: Home
+GPA: 2.98
+
+Name: Sarah
+ID: A777
+Address: Copper
+GPA: 2.99
+
+Name: Michelle
+ID: A512
+Address: San Jac
+GPA: 3
+
+Name: Randy
+ID: A210
+Address: Tower
+GPA: 3.43
+
+Name: Sharon
+ID: A516
+Address: San Gabe
+GPA: 3.65
+
+Name: Shelly
+ID: A645
+Address: Falls
+GPA: 3.68
+
+Name: Jeff
+ID: A646
+Address: Commons
+GPA: 3.86
+
+Name: Rachel
+ID: A282
+Address: Sayers
+GPA: 3.99
+
+---Displaying the LIST---
+Name: Jim
+ID: A123
+Address: TXST 123
+GPA: 2
+
+Name: Kelly
+ID: A111
+Address: TXST 444
+GPA: 2.15
+
+Name: Donnie
+ID: A157
+Address: Vistas
+GPA: 2.19
+
+Name: Mclovin
+ID: A453
+Address: Flowers
+GPA: 2.2
+
+Name: Stacy
+ID: A983
+Address: Sterry
+GPA: 2.75
+
+Name: Megan
+ID: A007
+Address: Capstone
+GPA: 2.81
+
+Name: Tristan
+ID: A113
+Address: Junction
+GPA: 2.9
+
+Name: Billy
+ID: A543
+Address: Home
+GPA: 2.98
+
+Name: Sarah
+ID: A777
+Address: Copper
+GPA: 2.99
+
+Name: Michelle
+ID: A512
+Address: San Jac
+GPA: 3
+
+Name: Randy
+ID: A210
+Address: Tower
+GPA: 3.43
+
+Name: Sharon
+ID: A516
+Address: San Gabe
+GPA: 3.65
+
+Name: Shelly
+ID: A645
+Address: Falls
+GPA: 3.68
+
+Name: Jeff
+ID: A646
+Address: Commons
+GPA: 3.86
+
+Name: Rachel
+ID: A282
+Address: Sayers
+GPA: 3.99
+
+Enter a GPA Value to delete from the list: 3.68
+Removed a student from the List!
+
+Enter the student's Name to insert: TEST
+Enter the student's ID to insert: 101010
+Enter the student's Address to insert: TOWER
+Enter the student's GPA to insert: 3.70
+Successfully inserted student!
+---Displaying the LIST---
+Name: Jim
+ID: A123
+Address: TXST 123
+GPA: 2
+
+Name: Kelly
+ID: A111
+Address: TXST 444
+GPA: 2.15
+
+Name: Donnie
+ID: A157
+Address: Vistas
+GPA: 2.19
+
+Name: Mclovin
+ID: A453
+Address: Flowers
+GPA: 2.2
+
+Name: Stacy
+ID: A983
+Address: Sterry
+GPA: 2.75
+
+Name: Megan
+ID: A007
+Address: Capstone
+GPA: 2.81
+
+Name: Tristan
+ID: A113
+Address: Junction
+GPA: 2.9
+
+Name: Billy
+ID: A543
+Address: Home
+GPA: 2.98
+
+Name: Sarah
+ID: A777
+Address: Copper
+GPA: 2.99
+
+Name: Michelle
+ID: A512
+Address: San Jac
+GPA: 3
+
+Name: Randy
+ID: A210
+Address: Tower
+GPA: 3.43
+
+Name: Sharon
+ID: A516
+Address: San Gabe
+GPA: 3.65
+
+Name: TEST
+ID: 101010
+Address: TOWER
+GPA: 3.7
+
+Name: Jeff
+ID: A646
+Address: Commons
+GPA: 3.86
+
+Name: Rachel
+ID: A282
+Address: Sayers
+GPA: 3.99
+
+Press any key to continue . . .

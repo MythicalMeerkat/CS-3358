@@ -1,0 +1,116 @@
+--- Displaying All student Records ---
+Name: Jim
+ID: A123
+Address: TXST 123
+Test Average: 87.9
+
+Name: Kelly
+ID: A111
+Address: TXST 444
+Test Average: 88.7
+
+Name: Donnie
+ID: A157
+Address: Vistas
+Test Average: 87.5
+
+Name: Mclovin
+ID: A453
+Address: Flowers
+Test Average: 78.2
+
+Name: Stacy
+ID: A983
+Address: Sterry
+Test Average: 81.4
+
+Name: Megan
+ID: A007
+Address: Capstone
+Test Average: 88
+
+Name: Tristan
+ID: A113
+Address: Junction
+Test Average: 87.7
+
+Name: Billy
+ID: A543
+Address: Home
+Test Average: 81
+
+Name: Sarah
+ID: A777
+Address: Copper
+Test Average: 76.9
+
+Name: Michelle
+ID: A512
+Address: San Jac
+Test Average: 77.2
+
+How many student records would you like to pop from the stack? 5
+
+---Popped Student Info---
+
+Name: Michelle
+ID: A512
+Address: San Jac
+Test Average: 77.2
+
+---Popped Student Info---
+
+Name: Sarah
+ID: A777
+Address: Copper
+Test Average: 76.9
+
+---Popped Student Info---
+
+Name: Billy
+ID: A543
+Address: Home
+Test Average: 81
+
+---Popped Student Info---
+
+Name: Tristan
+ID: A113
+Address: Junction
+Test Average: 87.7
+
+---Popped Student Info---
+
+Name: Megan
+ID: A007
+Address: Capstone
+Test Average: 88
+
+--- Displaying the STL Stack ---
+Name: Stacy
+ID: A983
+Address: Sterry
+Test Average: 81.4
+
+Name: Mclovin
+ID: A453
+Address: Flowers
+Test Average: 78.2
+
+Name: Donnie
+ID: A157
+Address: Vistas
+Test Average: 87.5
+
+Name: Kelly
+ID: A111
+Address: TXST 444
+Test Average: 88.7
+
+Name: Jim
+ID: A123
+Address: TXST 123
+Test Average: 87.9
+
+
+Press any key to continue . . .
